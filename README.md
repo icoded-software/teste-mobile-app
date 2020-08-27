@@ -19,16 +19,16 @@ Você também vai encontrar alguns desafios e tecnologias que usamos no nosso di
 
 # Telas
 
-<div display="inline-block">
-  <div>
+<p>
+  <p>
     <h1>Tela de login</h1>
     <img src="http://icoded.com.br/faca-um-app/img/login.png" alt="" data-canonical-src="http://icoded.com.br/faca-um-app/img/login.png" height="400" />
   </div>
-  <div>
+  <p>
     <h1>Tela de listar extrato</h1>
     <img src="http://icoded.com.br/faca-um-app/img/extrato.png" alt="" data-canonical-src="http://icoded.com.br/faca-um-app/img/extrato.png" height="400" />
   </div>
-</div>
+</p>
 
 # Tecnologias
 Algumas tecnologias que usamos no nosso dia-a-dia:
