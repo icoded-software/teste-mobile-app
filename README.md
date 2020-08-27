@@ -19,13 +19,13 @@ Você também vai encontrar alguns desafios e tecnologias que usamos no nosso di
 
 # Telas
 
-<p>
+<p align="left">
   <p>
-    <h1>Tela de login</h1>
+    <h3>Tela de login</h3>
     <img src="http://icoded.com.br/faca-um-app/img/login.png" alt="" data-canonical-src="http://icoded.com.br/faca-um-app/img/login.png" height="400" />
   </div>
   <p>
-    <h1>Tela de listar extrato</h1>
+    <h3>Tela de listar extrato</h3>
     <img src="http://icoded.com.br/faca-um-app/img/extrato.png" alt="" data-canonical-src="http://icoded.com.br/faca-um-app/img/extrato.png" height="400" />
   </div>
 </p>
