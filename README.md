@@ -23,11 +23,11 @@ Você também vai encontrar alguns desafios e tecnologias que usamos no nosso di
   <p>
     <h3>Tela de login</h3>
     <img src="http://icoded.com.br/faca-um-app/img/login.png" alt="" data-canonical-src="http://icoded.com.br/faca-um-app/img/login.png" height="400" />
-  </div>
+  </p>
   <p>
     <h3>Tela de listar extrato</h3>
     <img src="http://icoded.com.br/faca-um-app/img/extrato.png" alt="" data-canonical-src="http://icoded.com.br/faca-um-app/img/extrato.png" height="400" />
-  </div>
+  </p>
 </p>
 
 # Tecnologias
