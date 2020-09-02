@@ -8,6 +8,8 @@ Você também vai encontrar alguns desafios e tecnologias que usamos no nosso di
 # Instruções
 //Criar repositorio privado
 //Marcar colaboradores
+//Desenvolver telas apresentadas abaixo
+//Integrar com a API http://www.icoded.com.br/api/extract.php (pwd com o valor 123456) 
 
 # Projeto
 //Explicar o projeto
