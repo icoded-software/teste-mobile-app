@@ -10,9 +10,19 @@ Você também vai encontrar alguns desafios e tecnologias que usamos no nosso di
 
 //Marcar colaboradores
 
-//Desenvolver telas apresentadas abaixo
-
-//Integrar com a API http://www.icoded.com.br/api/extract.php (pwd com o valor 123456) 
+//Escopo
+ 1 - Tela inicial com um form de dois campos e um botão "Login" 
+   1.2 - Na ação do botão "Login" validar se se os dois campos tem o mesmo valor 
+   1.2 - Se tiver o mesmo valor abrir a tela de parcelas (2) 
+   1.3 - Se não tiver o mesmo valor apresentar um alerta de erro 
+ 2 - Tela de extrato onde deve ser apresentadas as informações do cliente e a lista de parcelas do mesmo, da seguinte forma: 
+   2.1 - Cabeçalho na tela com os dados do cliente (nome e total de parcelas e alguns limites) 
+   2.2 - Lista de parcelas e os dados da mesma 
+   2.3 - O acesso a esses dados deve ser feito via REST para a url http://www.icoded.com.br/api/extract.php passando de parâmetro pwd com o valor 123456. 
+   2.4 - Levar em conta um botão para que seja possível sair da tela e voltar ao form inicial 
+   2.5 - Ao tocar em uma das linhas de parcelas mostrar um alerta com a data da parcela e marcar a linha selecionada.
+ 3 - Tela de detalhes onde deverá ser apresentadas as informações dos itens da listagem
+   3.1 - Apresentar todos os dados do nodo retornados da API 
 
 # Projeto
 //Explicar o projeto
