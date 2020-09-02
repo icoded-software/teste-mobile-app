@@ -10,9 +10,9 @@ Você também vai encontrar alguns desafios e tecnologias que usamos no nosso di
 
 //Marcar colaboradores
 
-//Seguir o escopo 
+//Seguir o escopo do projeto
 
-# Escopo
+# Projeto
  1 - Tela inicial com um form de dois campos e um botão "Login" 
  
    1.2 - Na ação do botão "Login" validar se se os dois campos tem o mesmo valor 
@@ -36,9 +36,6 @@ Você também vai encontrar alguns desafios e tecnologias que usamos no nosso di
  3 - Tela de detalhes onde deverá ser apresentadas as informações dos itens da listagem
  
    3.1 - Apresentar todos os dados do nodo retornados da API 
-
-# Projeto
-//Explicar o projeto
 
 # Features
 1 - Login
