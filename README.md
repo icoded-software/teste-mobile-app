@@ -12,14 +12,16 @@ Você também vai encontrar alguns desafios e tecnologias que usamos no nosso di
 
 //Seguir o escopo do projeto
 
+//A cada nova feature fazer um PR
+
 # Projeto
- 1 - Tela inicial com um form de dois campos e um botão "Login" 
+ 1 - Tela inicial com um form de dois campos (usuário e senha) e um botão "Login" 
  
-   1.2 - Na ação do botão "Login" validar se se os dois campos tem o mesmo valor 
+   1.2 - Na ação do botão "Login" chamar o endpoint **POST http://www.icoded.com.br/api/v2/login.php** passando os parâmetros **usr** = parkour! e **pwd** = 123456
    
-   1.2 - Se tiver o mesmo valor abrir a tela de parcelas (2) 
+   1.2 - Se retornar 200 guardar o token e chamar a tela de parcelas (2) 
    
-   1.3 - Se não tiver o mesmo valor apresentar um alerta de erro 
+   1.3 - Se não apresentar um alerta de erro 
    
  2 - Tela de extrato onde deve ser apresentadas as informações do cliente e a lista de parcelas do mesmo, da seguinte forma: 
  
