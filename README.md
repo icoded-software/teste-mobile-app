@@ -46,7 +46,6 @@ Você também vai encontrar alguns desafios e tecnologias que usamos no nosso di
 
 <p align="left">
   <p>
-    <h3>Tela de login</h3>
     <img src="http://icoded.com.br/faca-um-app/img/test_flow.png" alt="" data-canonical-src="http://icoded.com.br/faca-um-app/img/test_flow.png" height="400" />
   </p>
 </p>
