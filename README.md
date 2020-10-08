@@ -8,7 +8,7 @@ Você também vai encontrar alguns desafios e tecnologias que usamos no nosso di
 # Instruções
 //Criar repositorio privado
 
-//Adicionar colaboradores (lluizteixeira / LTMezzari / brunotodeschini / MarceloEsser)
+//Adicionar colaboradores (danielefreitas / lluizteixeira / LTMezzari / brunotodeschini / MarceloEsser)
 
 //Seguir o escopo do projeto
 
