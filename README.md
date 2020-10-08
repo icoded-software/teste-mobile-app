@@ -56,7 +56,7 @@ Você também vai encontrar alguns desafios e tecnologias que usamos no nosso di
 Algumas tecnologias que usamos no nosso dia-a-dia:
 
 |  Android | x | IOS  | x | React Native  |
-|---|---|---|---|
+|---|---|---|---|---|
 | Kotlin  | . |  Swift | . |  Typescript |
 | Retrofit  | . |  Alamofire | . |  Axios |
 | MVC / MVVM | . | MVC / MVVM  | . | Duck Pattern  |
