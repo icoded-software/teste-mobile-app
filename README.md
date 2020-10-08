@@ -29,7 +29,7 @@ Você também vai encontrar alguns desafios e tecnologias que usamos no nosso di
    
    2.2 - Lista de parcelas e os dados da mesma 
    
-   2.3 - O acesso a esses dados deve ser feito via REST para a url **http://icoded.com.br/api/v2/extract.php** passando de parâmetro **token** com o valor que retornou da API de login. (EX: token=6FFDF126378E3DAD9B11B3168FA339E9547B9351132093AA2E4BD6631ABC64E4)
+   2.3 - O acesso a esses dados deve ser feito via REST para a url **POST http://icoded.com.br/api/v2/extract.php** passando de parâmetro **token** com o valor que retornou da API de login. (EX: token=6FFDF126378E3DAD9B11B3168FA339E9547B9351132093AA2E4BD6631ABC64E4)
    
    2.4 - Levar em conta um botão para que seja possível sair da tela e voltar ao form inicial (tipo um logout)
    
