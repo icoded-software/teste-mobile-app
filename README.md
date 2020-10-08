@@ -8,7 +8,7 @@ Você também vai encontrar alguns desafios e tecnologias que usamos no nosso di
 # Instruções
 //Criar repositorio privado
 
-//Marcar colaboradores
+//Adicionar colaboradores (lluizteixeira / LTMezzari / brunotodeschini / MarceloEsser)
 
 //Seguir o escopo do projeto
 
@@ -83,4 +83,4 @@ Algumas tecnologias que usamos no nosso dia-a-dia:
 
 Tente completar e reproduzir (UI/UX) o máximo possível do teste, mas fique também a vontade para evoluir, melhorar e sugerir novos elementos de UI/UX.
 
-# Qualquer duvida só contatar luiz.teixeira@rcadigital.com.br
+### Qualquer duvida só contatar luiz.teixeira@rcadigital.com.br
