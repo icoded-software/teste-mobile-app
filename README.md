@@ -1,5 +1,5 @@
 # Teste Aplicativo Mobile
-Nesse teste você deve desenvolver um app **nativo** para visualização de extrato de parcelas de um usuário.
+Nesse teste você deve desenvolver um app para visualização de extrato de parcelas de um usuário.
 
 No decorrer desse **readme** você encontrará as informações necessarias para a realização do teste.
 
@@ -55,27 +55,28 @@ Você também vai encontrar alguns desafios e tecnologias que usamos no nosso di
 # Tecnologias
 Algumas tecnologias que usamos no nosso dia-a-dia:
 
-|  Android | x | IOS  |
-|---|---|---|
-| Kotlin  | . |  Swift |
-| Retrofit  | . |  Alamofire |
-| MVC / MVVM | . | MVC / MVVM  |
-| ConstraintLayout  | . | AutoLayout  |
-| RecyclerView  | . | TableView  |
-| SharedPreferences | . | UserDefault  |
-| GSON | . | Object Mapper / Codable  |
+|  Android | x | IOS  | x | React Native  |
+|---|---|---|---|
+| Kotlin  | . |  Swift | . |  Typescript |
+| Retrofit  | . |  Alamofire | . |  Axios |
+| MVC / MVVM | . | MVC / MVVM  | . | Duck Pattern  |
+| ConstraintLayout  | . | AutoLayout  | . | Styled Components  |
+| RecyclerView  | . | TableView  | . | React Components  |
+| SharedPreferences | . | UserDefault  | . | Async Storage  |
+| GSON | . | Object Mapper / Codable  | . | -  |
 
 ### Diferenciais
-- Testes unitários (JUnit/XCTest)
+- Testes unitários (JUnit/XCTest/Jest)
 - Database (Realm / ObjectBox / Room / Core Data)
-- Cuidado com UX
+- Cuidado com UI / UX
 - Animação
 
 # O que será avaliado:
 - Estrutura, organização, arquitetura.
 - Clareza no código(Clean Code / SOLID)
-- Performação
+- Performance
 - Seguir guidelines das plataformas
 - UX/UI
+- Trabalho e comunicação
 
 
