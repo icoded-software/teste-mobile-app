@@ -59,7 +59,7 @@ Algumas tecnologias que usamos no nosso dia-a-dia:
 |---|---|---|---|---|
 | Kotlin  | . |  Swift | . |  Typescript |
 | Retrofit  | . |  Alamofire | . |  Axios |
-| MVC / MVVM | . | MVC / MVVM  | . | Duck Pattern  |
+| MVC / MVVM | . | MVC / MVVM  | . | Duck Pattern / React Hooks  |
 | ConstraintLayout  | . | AutoLayout  | . | Styled Components  |
 | RecyclerView  | . | TableView  | . | React Components  |
 | SharedPreferences | . | UserDefault  | . | Async Storage  |
