@@ -81,4 +81,6 @@ Algumas tecnologias que usamos no nosso dia-a-dia:
 - UX/UI
 - Trabalho e comunicação
 
-#Qualquer duvida só contatar luiz.teixeira@rcadigital.com.br
+Tente completar e reproduzir (UI/UX) o máximo possível do teste, mas fique também a vontade para evoluir, melhorar e sugerir novos elementos de UI/UX.
+
+# Qualquer duvida só contatar luiz.teixeira@rcadigital.com.br
