@@ -29,15 +29,15 @@ Você também vai encontrar alguns desafios e tecnologias que usamos no nosso di
    
    2.2 - Lista de parcelas e os dados da mesma 
    
-   2.3 - O acesso a esses dados deve ser feito via REST para a url **POST http://icoded.com.br/api/v2/extract.php** passando de parâmetro **token** com o valor que retornou da API de login. (EX: token=6FFDF126378E3DAD9B11B3168FA339E9547B9351132093AA2E4BD6631ABC64E4)
+   2.3 - O acesso a esses dados deve ser feito via REST para a url **POST http://icoded.com.br/api/v2/extract.php** passando de parâmetro **token** com o valor que retornou da API de login. (EX: token=xyz..)
    
    2.4 - Levar em conta um botão para que seja possível sair da tela e voltar ao form inicial (tipo um logout)
    
-   2.5 - Ao tocar em uma das linhas abrir a tela de detalhes da compra do respectivo item.
+   2.5 - Ao tocar em uma das linhas abrir a tela de detalhes (3) da compra do respectivo item.
    
- 3 - Tela de detalhes onde deverá ser apresentadas as informações do item e da compra efetuada.
+ 3 - Tela de detalhes (3) onde deverá ser apresentadas as informações do item e da compra efetuada.
  
-   3.2 - Ao abrir a tela usar o id da parcela da compra no endpoint http://icoded.com.br/api/v2/detail.php passando os parametros **token** e **carnet**
+   3.2 - Ao abrir a tela usar o id do carnet da compra no endpoint http://icoded.com.br/api/v2/detail.php passando os parametros **token** e **carnet**
    
    3.1 - Apresentar todos os dados do nodo retornados da API.
 
@@ -81,4 +81,4 @@ Algumas tecnologias que usamos no nosso dia-a-dia:
 - UX/UI
 - Trabalho e comunicação
 
-
+#Qualquer duvida só contatar luiz.teixeira@rcadigital.com.br
