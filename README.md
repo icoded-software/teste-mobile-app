@@ -12,7 +12,17 @@ Você também vai encontrar alguns desafios e tecnologias que usamos no nosso di
 
 //Seguir o escopo do projeto
 
-//A cada nova feature fazer um PR
+//Criar uma branch master e develop
+
+//Branch master - stable (produto final)
+
+//Branch develop - produto em desenvolvimento (stable dev)
+
+//A cada nova feature criar uma branch a partir da develop
+
+//Ao finalizar a feature fazer um Pull Request / Merge Request para a develop
+
+//Ao finalizar o escopo do projeto para entrega fazer um Pull Request / Merge Request para a master
 
 # Projeto
  1 - Tela inicial com um form de dois campos (usuário e senha) e um botão "Login" (1)
